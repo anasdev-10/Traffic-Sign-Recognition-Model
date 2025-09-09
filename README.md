@@ -28,8 +28,8 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/traffic-sign-recognition.git
-cd traffic-sign-recognition
+git clone https://github.com/anasdev-10/Traffic-Sign-Recognition-Model.git 
+cd Traffic-Sign-Recognition-Model
 
 # Install dependencies
 pip install -r requirements.txt
